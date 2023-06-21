@@ -6,7 +6,6 @@ O objetivo principal deste repositório é fornecer aos fãs de anime uma refer�
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 </p>
 <br>
