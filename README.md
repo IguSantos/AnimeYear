@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://imgur.com/bgPP6st">
+  <img src:"https://imgur.com/bgPP6st" alt:"Imagem do projeto">
 </p>
 
 <br>
