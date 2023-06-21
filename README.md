@@ -1,7 +1,7 @@
 <h1 align="center">AnimeYear </h1>
 
 <p align="center">
-Um blog de notícias para os amantes de anime, contendo os maiores animes e suas openings (abertura) <br/>
+O objetivo principal deste repositório é fornecer aos fãs de anime uma referência atualizada dos melhores e mais populares animes lançados durante o ano. <br/>
 </p>
 
 <p align="center">
